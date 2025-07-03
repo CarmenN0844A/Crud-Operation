@@ -74,4 +74,3 @@ This project is open-source and available under the MIT License.
 
 ---
 
-Let me know if you'd like to include a **screenshot**, deploy it on GitHub Pages, or extend the app with **local storage** or **form validation** — I can help with that too!
